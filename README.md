@@ -1,4 +1,4 @@
-# Proyectos
+# Productos
 
 #### [Visual Quotes API](https://github.com/Maciker/VisualQuotesAPI)
 #### [Visual Quotes Front-end](https://github.com/Maciker/VisualQuotes)
